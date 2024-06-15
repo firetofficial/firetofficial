@@ -19,7 +19,7 @@
 
 - 🌱 I’m currently learning **Software engineer**
 
-- 💬 Ask me about **Reactjs**
+- 💬 Ask me about **Nodejs**
 
 - 😂 Func Fact **Bats are the only mammal that can actually fly.**
 
