@@ -30,9 +30,13 @@ const firet = {
   currentlyBuilding: ["FireT.io 🔥", "ZythSoft 🚀"],
   learning:          "Software Engineering & Cloud Architecture",
   expertise:         ["Laravel", "Node.js", "React", "Python", "SEO Automation"],
-  funFact:           "Bats are the only mammals that can truly fly 🦇",
+  funFact:           "→ see below 😄",
 };
 ```
+
+<div align="center">
+  <img src="https://readme-jokes.vercel.app/api?theme=tokyonight&hideBorder" alt="Random Dev Joke" />
+</div>
 
 ---
 
