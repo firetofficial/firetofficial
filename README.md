@@ -35,7 +35,7 @@ const firet = {
 ```
 
 <div align="center">
-  <img src="https://readme-jokes.vercel.app/api?theme=tokyonight&hideBorder" alt="Random Dev Joke" />
+  <img src="https://readme-jokes.vercel.app/api?hideBorder" alt="Random Dev Joke" />
 </div>
 
 ---
