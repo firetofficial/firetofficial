@@ -30,7 +30,6 @@ const firet = {
   currentlyBuilding: ["FireT.io 🔥", "ZythSoft 🚀"],
   learning:          "Software Engineering & Cloud Architecture",
   expertise:         ["Laravel", "Node.js", "React", "Python", "SEO Automation"],
-  funFact:           "→ see below 😄",
 };
 ```
 
